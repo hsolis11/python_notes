@@ -166,3 +166,40 @@ Level 2:   0% [..........................................]
 Level 3:   0% [..........................................]
 Level 4:   0% [..........................................]
 Level 5:   0% [..........................................]
+
+
+Submitted my assignment
+Submission: SUCCESSFUL. Completed in: 1 hr, 30 mins, 16 secs.
+
+Current level: 2
+Challenges left to complete level: 1
+
+Level 1: 100% [==========================================]
+Level 2:  50% [=====================.....................]
+Level 3:   0% [..........................................]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+
+Rumor has it the bunny trainers are inexplicably fond of bananas. You're an apple person yourself, but you file the information away for future reference. You never know when you might need to bribe a trainer (or three)...
+
+
+Submitting solution...
+Awesome! Commander Lambda was so impressed by your efforts that you've been promoted to personal assistant. You'll be helping the Commander directly, which means you'll have access to all of Lambda's files -- including the ones on the LAMBCHOP doomsday device. This is the chance you've been waiting for. Can you use your new access to finally topple Commander Lambda's evil empire?
+Submission: SUCCESSFUL. Completed in: 6 hrs, 48 mins, 47 secs.
+
+Level 2 complete
+You are now on level 3
+Challenges left to complete level: 3
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3:   0% [..........................................]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+To invite a friend to try a challenge, send the link below. This is a single-use code, so choose wisely.
+
+Refer a friend: "https://foobar.withgoogle.com/?eid=Ab7Le" (Unused)
+
+
